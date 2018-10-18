@@ -8,6 +8,7 @@ Dans ce dossier vous trouverez:
 * Un projet d'analyse sur les appels d'urgences aux Etats-Unis.
 * Un ensemble d'exercices sur différents modèles de Machine Learning.
 * Des exercices liés aux techniques de traitement des données: Principal Component Analysis, Natural Language Processing.
+En cours de realisation:
 * Une introduction au Big Data avec Spark et Python.
 * Une introduction aux réseaux de neurones et Deep Learning avec Python.
 * Un projet de Deep Learning avec TensorFlow.
@@ -19,6 +20,7 @@ In this Portfolio you will find:
 * A project about 911 emergency calls analysis.
 * Various exercices about different Machine Learning algorithm.
 * Exercices about Principal Component Analysis and Natural Language Processing.
+Currently in progress:
 * A Big Data introduction with Spark and Python.
 * A Neural nets and Deep Learning introduction.
 * A Deep Learning project with TensorFlow.
