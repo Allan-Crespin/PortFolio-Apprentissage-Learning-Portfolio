@@ -20,6 +20,7 @@ In this Portfolio you will find:
 * A project about 911 emergency calls analysis.
 * Various exercices about different Machine Learning algorithm.
 * Exercices about Principal Component Analysis and Natural Language Processing.
+
 Currently in progress:
 * A Big Data introduction with Spark and Python.
 * A Neural nets and Deep Learning introduction.
