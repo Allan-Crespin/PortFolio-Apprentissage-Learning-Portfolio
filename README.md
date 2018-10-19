@@ -8,6 +8,7 @@ Dans ce dossier vous trouverez:
 * Un projet d'analyse sur les appels d'urgences aux Etats-Unis.
 * Un ensemble d'exercices sur différents modèles de Machine Learning.
 * Des exercices liés aux techniques de traitement des données: Principal Component Analysis, Natural Language Processing.
+
 En cours de realisation:
 * Une introduction au Big Data avec Spark et Python.
 * Une introduction aux réseaux de neurones et Deep Learning avec Python.
